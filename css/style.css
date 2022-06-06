@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.logo{
+    color: white;
+    width: 60px;
+    height: 40px;
+}
+body{
+    background: url(../img/backrooond.webp) no-repeat center/cover;
+}
+#eas-b2d967d0-img {
+    display: block;
+    max-width: 728px;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    top: -300px;
+    transition: all 1s ease 0s;
+    margin: 0 auto;
+}
+.eslatma{
+     
+    box-shadow: 0px 3px 9px 6px black;
+}
